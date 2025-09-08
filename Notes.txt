@@ -1,1 +1,2 @@
 First git
+This line was added on new branch
